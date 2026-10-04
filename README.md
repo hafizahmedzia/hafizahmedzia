@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Hafiz Ahmed Zia, AI-Native Product & Systems Builder. I take your idea all the way to a running system.">
-</picture>
+<img src="assets/header-portrait.png" width="100%" alt="Hafiz Ahmed Zia — AI-Native Product &amp; Systems Builder. ahmedzia.cc. Monochrome portrait on a white background.">
 
 **[ahmedzia.cc](https://ahmedzia.cc)** · [LinkedIn](https://www.linkedin.com/in/hafizahmedzia/) · [X](https://x.com/hafizahmedzia) · [hello@ahmedzia.cc](mailto:hello@ahmedzia.cc) · Pakistan (UTC+5) · Open to international projects
 
