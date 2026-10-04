@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:0EA5E9&height=190&section=header&text=Hafiz%20Ahmed%20Zia&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=AI-Native%20Product%20%26%20Systems%20Builder&descSize=18&descAlignY=58" width="100%" alt="Hafiz Ahmed Zia — AI-Native Product & Systems Builder" />
+<img src="assets/header.svg" width="100%" alt="Hafiz Ahmed Zia — AI-Native Product & Systems Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Idea+%E2%86%92+Research+%E2%86%92+PRD+%E2%86%92+Wireframes;Hi-Fi+Design+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Monitor;Built+with+AI+agents.+Verified+by+me." alt="Idea → Research → PRD → Wireframes → Hi-Fi Design → Build → Deploy → Monitor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=From+vibe+coding+to+real+systems.;Plan+it+clearly.+Build+it+with+AI+agents.;Deploy+it+safely.+Monitor+it+closely." alt="From vibe coding to real systems." />
 
 <br/>
 
@@ -24,9 +24,16 @@ I build with AI coding agents, and I own everything around the code: clear requi
 ## 🔁 From idea to production
 
 ```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[🔎 Research] --> C[📄 PRD] --> D[✏️ Wireframes]
-    D --> E[🎨 Hi-Fi Design] --> F[🛠️ Build] --> G[🚀 Deploy] --> H[📈 Monitor]
+flowchart TB
+    subgraph PLAN["🧠 Plan & design"]
+        direction LR
+        A([💡 Idea]) --> B[🔎 Research] --> C[📄 PRD] --> D[✏️ Wireframes] --> E[🎨 Hi-Fi Design]
+    end
+    subgraph RUN["⚙️ Build & run"]
+        direction LR
+        F[🛠️ Build] --> G[🚀 Deploy] --> H[📈 Monitor]
+    end
+    PLAN --> RUN
 ```
 
 ## 🧭 What I do
@@ -134,6 +141,6 @@ Send me the problem, your current setup and the outcome you want. Written briefs
 
 <a href="https://www.linkedin.com/in/hafizahmedzia/"><img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1F3A&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
